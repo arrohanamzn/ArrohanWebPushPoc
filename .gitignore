@@ -1,0 +1,7 @@
+node_modules/
+amplify/
+.amplifyrc
+aws-exports.js
+*.DS_Store*
+dist/
+.firebase/
